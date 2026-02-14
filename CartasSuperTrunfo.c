@@ -54,7 +54,7 @@ int main() {
 
 
   // ENTRADA DOS DADOS DA CARTA 2
-  printf("--- CADASTRO DA CARTA 2 ---\n");
+  printf("\n--- CADASTRO DA CARTA 2 ---\n");
     
   printf("Digite o Estado (Uma letra de A a H): ");
   scanf(" %c", &estado2);
@@ -81,7 +81,7 @@ int main() {
   // Área para exibição dos dados da cidade
 
   printf("\n===================================\n");
-  printf("DADOS CADASTRADOS COM SUCESSO!\n");
+  printf("   DADOS CADASTRADOS COM SUCESSO!\n");
   printf("===================================\n\n");
 
   // Imprimindo a Carta 1
